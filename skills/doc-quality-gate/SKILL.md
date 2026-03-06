@@ -1,6 +1,6 @@
 ---
 name: vibe-doc-quality-gate
-description: Fast 6-point quality check for technical documents (specs, design docs, READMEs). Use after editing any specification or design document.
+description: Performs a fast 6-point quality check for technical documents (specs, design docs, READMEs). Use after editing any specification or design document.
 user-invocable: true
 ---
 

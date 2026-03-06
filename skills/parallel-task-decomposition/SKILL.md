@@ -1,6 +1,6 @@
 ---
 name: vibe-parallel-task-decomposition
-description: Analyze large tasks for independent subtasks that can be safely parallelized. Produces a DAG-based dispatch plan with dependency ordering and maximum parallelism.
+description: Analyzes large tasks for independent subtasks that can be safely parallelized. Produces a DAG-based dispatch plan with dependency ordering and maximum parallelism.
 user-invocable: true
 ---
 

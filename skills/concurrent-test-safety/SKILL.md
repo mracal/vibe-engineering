@@ -1,6 +1,6 @@
 ---
 name: vibe-concurrent-test-safety
-description: Audit tests for concurrency safety -- race conditions, shared mock state, cleanup ordering. Use when writing tests that involve goroutines, async operations, or shared mutable state.
+description: Audits tests for concurrency safety — race conditions, shared mock state, cleanup ordering. Use when writing tests that involve goroutines, async operations, or shared mutable state.
 user-invocable: true
 ---
 

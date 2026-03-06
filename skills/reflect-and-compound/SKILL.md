@@ -1,6 +1,6 @@
 ---
 name: vibe-reflect-and-compound
-description: Extract learnings from completed work, feedback, or failures. Updates a persistent learnings file with capped entries. Use after receiving feedback, fixing bugs, or completing complex tasks.
+description: Extracts learnings from completed work, feedback, or failures. Updates a persistent learnings file with capped entries. Use after receiving feedback, fixing bugs, or completing complex tasks.
 user-invocable: true
 ---
 

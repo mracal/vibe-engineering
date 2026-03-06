@@ -1,6 +1,6 @@
 ---
 name: vibe-safe-deploy
-description: Deployment with pre-flight checks, atomic replacement, post-deploy verification, and automatic rollback. Use before any deployment to staging or production.
+description: Performs deployment with pre-flight checks, atomic replacement, post-deploy verification, and automatic rollback. Use before any deployment to staging or production.
 user-invocable: true
 ---
 

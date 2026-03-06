@@ -1,6 +1,6 @@
 ---
 name: vibe-golden-file-testing
-description: Implement snapshot/golden file tests with temporal normalization so tests don't break daily. Use when implementing tests that compare output against expected snapshots.
+description: Implements snapshot/golden file tests with temporal normalization so tests don't break daily. Use when implementing tests that compare output against expected snapshots.
 user-invocable: true
 ---
 

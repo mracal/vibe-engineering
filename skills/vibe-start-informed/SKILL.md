@@ -1,10 +1,10 @@
 ---
-name: start-informed
-description: Use when brainstorming new features, designing architecture, or making technology choices — before proposing any approach. Triggers on creative/design tasks, not on implementation of already-designed specs.
+name: vibe-start-informed
+description: Dispatches research agents to find real projects, papers, and documented failures before proposing any feature, architecture, or technology choice. Triggers on creative/design tasks, not on implementation of already-designed specs.
 user-invocable: true
 ---
 
-# Start Informed
+# vibe-start-informed
 
 Other people's documented failures count as observed failure. Research SOTA before proposing anything.
 
@@ -33,7 +33,7 @@ digraph start_informed {
     "Design question identified" -> "Decompose into sub-problems";
     "Decompose into sub-problems" -> "Dispatch research agent (WebSearch)";
     "Dispatch research agent (WebSearch)" -> "For each sub-problem find:";
-    "For each sub-problems find:" -> "Synthesize imported failures";
+    "For each sub-problem find:" -> "Synthesize imported failures";
     "Synthesize imported failures" -> "NOW propose approaches";
 }
 ```

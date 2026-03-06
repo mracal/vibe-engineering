@@ -1,6 +1,6 @@
 ---
 name: vibe-help
-description: Interactive skill router — helps users discover which vibe-engineering skill to use for their current task. Use when user asks "what skill should I use?" or seems unsure.
+description: Routes users to the right vibe-engineering skill for their current task. Use when user asks "what skill should I use?" or seems unsure about which skill to invoke.
 user-invocable: true
 ---
 

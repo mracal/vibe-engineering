@@ -1,6 +1,6 @@
 ---
 name: vibe-acceptance-gate
-description: Validate completed work against defined acceptance criteria. Use after completing a task that has specific success criteria defined in issues, specs, or task descriptions.
+description: Validates completed work against defined acceptance criteria. Use after completing a task that has specific success criteria defined in issues, specs, or task descriptions.
 user-invocable: true
 ---
 

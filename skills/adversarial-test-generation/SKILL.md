@@ -1,6 +1,6 @@
 ---
 name: vibe-adversarial-test-generation
-description: Generate edge case and failure mode test cases after happy-path tests are written. Covers boundary values, nil inputs, concurrency, resource exhaustion, and malformed data.
+description: Generates edge case and failure mode test cases after happy-path tests are written. Covers boundary values, nil inputs, concurrency, resource exhaustion, and malformed data.
 user-invocable: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: vibe-iteration-review
-description: End-of-iteration review with quality grading, metrics, and trend analysis. Use at the end of each development iteration or sprint.
+description: Performs end-of-iteration review with quality grading, metrics, and trend analysis. Use at the end of each development iteration or sprint.
 user-invocable: true
 ---
 

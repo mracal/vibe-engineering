@@ -1,6 +1,6 @@
 ---
 name: vibe-coverage-enforcer
-description: Enforce tiered test coverage standards — critical paths >=90%, business logic >=80%, general code >=70%. Use before claiming code is complete.
+description: Enforces tiered test coverage standards — critical paths >=90%, business logic >=80%, general code >=70%. Use before claiming code is complete.
 user-invocable: true
 ---
 

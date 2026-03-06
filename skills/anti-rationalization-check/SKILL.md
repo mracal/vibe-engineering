@@ -1,6 +1,6 @@
 ---
 name: vibe-anti-rationalization-check
-description: Detect and prevent shortcut rationalization — when Claude is about to skip a step, simplify a requirement, or optimize away a constraint. Use proactively when you notice rationalization patterns.
+description: Detects and prevents shortcut rationalization — when the agent is about to skip a step, simplify a requirement, or optimize away a constraint. Triggers proactively when rationalization patterns are noticed.
 user-invocable: true
 ---
 

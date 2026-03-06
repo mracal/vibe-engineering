@@ -1,6 +1,6 @@
 ---
 name: vibe-decision-journal
-description: Record architectural and technology decisions in ADR format for cross-session persistence. Use after making any significant design choice.
+description: Records architectural and technology decisions in ADR format for cross-session persistence. Use after making any significant design choice.
 user-invocable: true
 ---
 

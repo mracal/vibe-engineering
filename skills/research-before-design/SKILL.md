@@ -1,6 +1,6 @@
 ---
 name: vibe-research-before-design
-description: Dispatch SOTA research before proposing any new feature, architecture, or technology choice. Use when facing design decisions, not when implementing existing specs.
+description: Dispatches SOTA research before proposing any new feature, architecture, or technology choice. Use when facing design decisions, not when implementing existing specs.
 user-invocable: true
 ---
 

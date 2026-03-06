@@ -1,6 +1,6 @@
 ---
 name: vibe-spec-vs-code-audit
-description: Compare specification documents against implementation code to find divergences. Use when implementation of a spec or design doc is claimed complete.
+description: Compares specification documents against implementation code to find divergences. Use when implementation of a spec or design doc is claimed complete.
 user-invocable: true
 ---
 

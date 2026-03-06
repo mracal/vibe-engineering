@@ -1,6 +1,6 @@
 ---
 name: vibe-requirements-validator
-description: Validate PRD, user stories, or feature requirements against SMART criteria. Use when reviewing requirements to catch vagueness before it causes expensive rework.
+description: Validates PRD, user stories, or feature requirements against SMART criteria. Use when reviewing requirements to catch vagueness before it causes expensive rework.
 user-invocable: true
 ---
 

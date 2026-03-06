@@ -185,7 +185,7 @@ Found a pattern that keeps saving you? Turn it into a skill:
 ```markdown
 ---
 name: vibe-your-skill-name
-description: One-line description of what this skill does and when to use it.
+description: Performs [action] for [context]. Use when [trigger condition].
 user-invocable: true
 ---
 

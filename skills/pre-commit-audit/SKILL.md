@@ -1,6 +1,6 @@
 ---
 name: vibe-pre-commit-audit
-description: Scan staged changes for secrets, debug statements, TODOs without references, and other common commit mistakes. Use before creating any commit.
+description: Scans staged changes for secrets, debug statements, TODOs without references, and other common commit mistakes. Use before creating any commit.
 user-invocable: true
 ---
 

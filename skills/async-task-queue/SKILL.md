@@ -1,6 +1,6 @@
 ---
 name: vibe-async-task-queue
-description: Persistent cross-session task queue for work that should be done but isn't blocking current tasks. Enables background and future-session work tracking.
+description: Provides a persistent cross-session task queue for work that should be done but isn't blocking current tasks. Enables background and future-session work tracking.
 user-invocable: true
 ---
 

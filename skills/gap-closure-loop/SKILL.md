@@ -1,6 +1,6 @@
 ---
 name: vibe-gap-closure-loop
-description: Use when closing production readiness gaps from a gap analysis document. Autonomously loops dependency analysis, parallel agent dispatch, test gate, re-audit, and repeats until target dimensions reach target score.
+description: Closes production readiness gaps from a gap analysis document. Autonomously loops dependency analysis, parallel agent dispatch, test gate, re-audit, and repeats until target dimensions reach target score.
 user-invocable: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: vibe-session-context-flush
-description: Smart context summarization when the context window is approaching capacity. Identifies what to keep, what to summarize, and creates a compact resume state.
+description: Performs smart context summarization when the context window is approaching capacity. Identifies what to keep, what to summarize, and creates a compact resume state.
 user-invocable: true
 ---
 

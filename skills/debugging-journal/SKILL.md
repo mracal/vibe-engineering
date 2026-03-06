@@ -1,6 +1,6 @@
 ---
 name: vibe-debugging-journal
-description: Record resolved bugs in a persistent journal — symptom, root cause, difficulty, fix, prevention. Organized by category for future reference.
+description: Records resolved bugs in a persistent journal — symptom, root cause, difficulty, fix, prevention. Organized by category for future reference.
 user-invocable: true
 ---
 

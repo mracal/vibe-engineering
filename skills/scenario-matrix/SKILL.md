@@ -1,6 +1,6 @@
 ---
 name: vibe-scenario-matrix
-description: Generate a behavioral scenario acceptance matrix for comprehensive test coverage planning. Maps user scenarios to acceptance criteria with stable IDs.
+description: Generates a behavioral scenario acceptance matrix for comprehensive test coverage planning. Maps user scenarios to acceptance criteria with stable IDs.
 user-invocable: true
 ---
 

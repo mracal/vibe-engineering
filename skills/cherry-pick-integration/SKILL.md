@@ -1,6 +1,6 @@
 ---
 name: vibe-cherry-pick-integration
-description: Safely integrate commits from parallel agent branches using sequential cherry-pick. Use after parallel work completes in isolated branches or worktrees.
+description: Safely integrates commits from parallel agent branches using sequential cherry-pick. Use after parallel work completes in isolated branches or worktrees.
 user-invocable: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: vibe-production-mindset
-description: Set quality expectations for implementation — "imagine this serves 1 million users." Checks for observability, error handling, input validation, graceful degradation.
+description: Sets quality expectations for implementation — "imagine this serves 1 million users." Checks for observability, error handling, input validation, graceful degradation.
 user-invocable: true
 ---
 

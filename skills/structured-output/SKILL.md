@@ -1,6 +1,6 @@
 ---
 name: vibe-structured-output
-description: Enforce structured output format for analyses, reports, and recommendations — Executive Summary, Detailed Analysis, Next Steps, Metrics. Prevents wall-of-text responses.
+description: Enforces structured output format for analyses, reports, and recommendations — Executive Summary, Detailed Analysis, Next Steps, Metrics. Prevents wall-of-text responses.
 user-invocable: true
 ---
 

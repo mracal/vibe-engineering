@@ -1,6 +1,6 @@
 ---
 name: vibe-fuzz-parser-inputs
-description: Generate fuzz test scaffolding for parsers handling external input (YAML, JSON, config files, user input). Seeds corpus from existing fixtures and runs initial pass.
+description: Generates fuzz test scaffolding for parsers handling external input (YAML, JSON, config files, user input). Seeds corpus from existing fixtures and runs initial pass.
 user-invocable: true
 ---
 

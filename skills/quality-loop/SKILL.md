@@ -1,6 +1,6 @@
 ---
 name: vibe-quality-loop
-description: Enforce the Implement→Review→Test→Fix→Loop cycle until work is clean. Use after any non-trivial implementation to prevent "good enough" exits.
+description: Enforces the Implement→Review→Test→Fix→Loop cycle until work is clean. Use after any non-trivial implementation to prevent "good enough" exits.
 user-invocable: true
 ---
 

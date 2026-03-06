@@ -1,6 +1,6 @@
 ---
 name: vibe-scope-guard
-description: Detect and redirect scope creep during implementation. Catches unrequested features, unnecessary refactoring, and over-engineering.
+description: Detects and redirects scope creep during implementation. Catches unrequested features, unnecessary refactoring, and over-engineering.
 user-invocable: true
 ---
 
@@ -30,7 +30,7 @@ Watch for these patterns:
 | Unrequested features | "While I'm here, let me add caching" | Stop. Was caching requested? |
 | Premature abstraction | "Let me create a generic helper for this" | Is it used more than once? |
 | Gold plating | "Let me add comprehensive error messages for every case" | Only at system boundaries |
-| Refactoring drivibe-by | "This function could be cleaner" | Was refactoring requested? |
+| Refactoring drive-by | "This function could be cleaner" | Was refactoring requested? |
 | Over-engineering | "Let me make this configurable" | Does anyone need configuration? |
 | Documentation creep | "Let me add docstrings to all these functions" | Only to functions you changed |
 | Test over-expansion | "Let me test every possible input" | Test the boundaries, not every input |

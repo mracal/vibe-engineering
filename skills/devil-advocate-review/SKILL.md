@@ -1,6 +1,6 @@
 ---
 name: vibe-devil-advocate-review
-description: Challenge recommendations, designs, or synthesis by adversarial review across 5 dimensions. Use before shipping any significant recommendation or design document.
+description: Challenges recommendations, designs, or synthesis by adversarial review across 5 dimensions. Use before shipping any significant recommendation or design document.
 user-invocable: true
 ---
 

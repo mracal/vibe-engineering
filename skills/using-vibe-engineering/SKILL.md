@@ -1,6 +1,6 @@
 ---
 name: vibe-using-vibe-engineering
-description: Bootstrap skill that teaches Claude to check for applicable vibe-engineering skills before every action. Load this at conversation start.
+description: Bootstraps the agent to check for applicable vibe-engineering skills before every action. Loads at conversation start for skill discovery.
 user-invocable: true
 ---
 
@@ -16,6 +16,7 @@ Before taking any action, check if a vibe-engineering skill applies. Skills use 
 
 ### Before Building
 - `vibe-research-before-design` — SOTA research before proposing architecture/features
+- `vibe-start-informed` — Research agents for real projects, papers, and documented failures
 - `vibe-decision-journal` — Record architectural decisions for cross-session memory
 - `vibe-production-mindset` — Set "1 million users" quality expectations
 

@@ -1,6 +1,6 @@
 ---
 name: vibe-handover-doc
-description: Generate a session continuity document at the end of a long session or when switching context on a multi-session project. Enables seamless resumption.
+description: Generates a session continuity document at the end of a long session or when switching context on a multi-session project. Enables seamless resumption.
 user-invocable: true
 ---
 

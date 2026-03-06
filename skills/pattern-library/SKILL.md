@@ -1,6 +1,6 @@
 ---
 name: vibe-pattern-library
-description: Detect recurring implementation patterns and record them for reuse. When the same code pattern appears 3+ times, it belongs in the pattern library.
+description: Detects recurring implementation patterns and records them for reuse. When the same code pattern appears 3+ times, it belongs in the pattern library.
 user-invocable: true
 ---
 

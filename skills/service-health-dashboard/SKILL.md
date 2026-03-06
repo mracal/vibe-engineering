@@ -1,6 +1,6 @@
 ---
 name: vibe-service-health-dashboard
-description: Query all configured services for health status — uptime, restarts, errors, resources. Use when checking the health of running services.
+description: Queries all configured services for health status — uptime, restarts, errors, resources. Use when checking the health of running services.
 user-invocable: true
 ---
 

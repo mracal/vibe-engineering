@@ -1,6 +1,6 @@
 ---
 name: vibe-wave-based-remediation
-description: Systematically fix large backlogs of issues using prioritized waves. Use when facing 10+ issues, bugs, or gaps to address.
+description: Systematically fixes large backlogs of issues using prioritized waves. Use when facing 10+ issues, bugs, or gaps to address.
 user-invocable: true
 ---
 
@@ -46,7 +46,7 @@ When you have 50 issues, don't fix them randomly. Attack in waves.
 
 ## Output Format
 
-### Wavibe-Based Remediation
+### Wave-Based Remediation
 
 **Total Issues**: X
 **Waves**: Y

@@ -1,6 +1,6 @@
 ---
 name: vibe-rollback-plan
-description: Document rollback procedures before making risky changes. Covers what's changing, verification steps, rollback procedures, and blast radius assessment.
+description: Documents rollback procedures before making risky changes. Covers what's changing, verification steps, rollback procedures, and blast radius assessment.
 user-invocable: true
 ---
 
