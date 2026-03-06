@@ -1,14 +1,26 @@
 # vibe-engineering
 
-A Claude Code plugin with 36 engineering discipline skills. Extracted from real-world multi-agent system development — not theoretical best practices, but patterns that survived 3 weeks of intensive production development.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet)](https://github.com/ash1794/vibe-engineering)
+[![Skills](https://img.shields.io/badge/Skills-37-green)](https://github.com/ash1794/vibe-engineering)
+
+**37 engineering discipline skills for Claude Code.** Extracted from real-world multi-agent system development — not theoretical best practices, but patterns that survived 3 weeks of intensive production development with 205+ test files, 11 agents, and 50+ session observations.
 
 > "Vibe coding" meets engineering rigor. Every skill here exists because skipping it caused real pain.
 
+### One command. Instant engineering discipline.
+
+```bash
+claude plugin add github:ash1794/vibe-engineering
+```
+
+Claude automatically discovers and applies the right skill for every task — research before design, quality gates before shipping, structured debugging before guessing, test coverage before claiming "done."
+
 ## What is this?
 
-A Claude Code plugin with 36 skills that enforce engineering discipline across any project:
+A Claude Code plugin with 37 skills that enforce engineering discipline across any project:
 
-- **Research & Decision-Making** (4 skills) — Think before building
+- **Research & Decision-Making** (5 skills) — Think before building
 - **Quality Gates & Validation** (6 skills) — Catch issues before they ship
 - **Learning & Knowledge Management** (5 skills) — Never solve the same problem twice
 - **Parallel & Multi-Agent Development** (4 skills) — Scale your work safely
@@ -26,7 +38,7 @@ A Claude Code plugin with 36 skills that enforce engineering discipline across a
 claude plugin add github:ash1794/vibe-engineering
 ```
 
-That's it. All 36 skills are now available in every Claude Code session.
+That's it. All 37 skills are now available in every Claude Code session.
 
 ### Option 2: Development / local testing
 
@@ -77,6 +89,7 @@ Invoke any skill directly:
 | `vibe-research-before-design` | Before any new feature/architecture | SOTA research before design proposals |
 | `vibe-decision-journal` | After any architectural choice | ADR-style persistent decision logging |
 | `vibe-devil-advocate-review` | Before shipping recommendations | 5-dimension adversarial challenge |
+| `vibe-start-informed` | Before proposing any feature/architecture | Research real projects and failures before designing |
 | `vibe-anti-rationalization-check` | When about to skip a step | Catches shortcut rationalization patterns |
 
 ### Quality Gates & Validation
@@ -137,6 +150,20 @@ Invoke any skill directly:
 | `vibe-scope-guard` | During implementation | Scope creep detection and redirection |
 | `vibe-production-mindset` | Starting any implementation | "1 million users" quality check |
 
+## Why vibe-engineering?
+
+Without discipline skills, AI coding assistants make the same mistakes humans do — skip research, ship without tests, rationalize shortcuts, lose context across sessions. **vibe-engineering catches these patterns automatically.**
+
+| Without | With vibe-engineering |
+|---------|----------------------|
+| "Let me just build it" | Research existing solutions first (`vibe-research-before-design`) |
+| "Tests pass, ship it" | Check coverage standards are met (`vibe-coverage-enforcer`) |
+| "I'll remember the decision" | Record it for future sessions (`vibe-decision-journal`) |
+| "Good enough" | Loop until clean (`vibe-quality-loop`) |
+| "This is simple, no need for..." | Catch rationalization in real-time (`vibe-anti-rationalization-check`) |
+| Debug by guessing | Systematic root cause analysis (`vibe-debugging-journal`) |
+| Context lost between sessions | Auto-generated handover docs (`vibe-handover-doc`) |
+
 ## Design Principles
 
 1. **Born from pain, not theory** — Every skill exists because skipping it caused real problems
@@ -147,19 +174,19 @@ Invoke any skill directly:
 
 ## How It Works
 
-This is a standard Claude Code plugin. The `.claude-plugin/plugin.json` manifest registers it, and the `skills/` directory contains 36 skill definitions that Claude auto-discovers based on task context.
+This is a standard Claude Code plugin. The `.claude-plugin/plugin.json` manifest registers it, and the `skills/` directory contains 37 skill definitions that Claude auto-discovers based on task context.
 
 ```
 vibe-engineering/
 ├── .claude-plugin/
 │   └── plugin.json          # Plugin manifest
-├── skills/                  # 36 skill definitions
+├── skills/                  # 37 skill definitions
 │   ├── vibe-help/SKILL.md
 │   ├── quality-loop/SKILL.md
 │   ├── research-before-design/SKILL.md
 │   ├── gap-analysis/SKILL.md
 │   ├── gap-closure-loop/SKILL.md
-│   └── ... (31 more)
+│   └── ... (32 more)
 └── README.md
 ```
 
@@ -211,10 +238,18 @@ user-invocable: true
 
 ## Origin Story
 
-These skills were extracted from building [nosaintsville-agent](https://github.com/ash1794/nosaintsville-agent) — an 11-agent personal assistant system with Go backend, React Native frontend, and 205+ test files. Every skill represents a pattern that emerged from real development pain, not a theoretical best practice document.
+These skills were extracted from building [nosaintsville-agent](https://github.com/ash1794/nosaintsville-agent) — an 11-agent personal assistant system with Go backend, React Native frontend, and 205+ test files.
 
-The extraction process analyzed 50+ session observations (310k+ tokens of development history), 15 project-specific skills, and 3 weeks of intensive development to identify 34 patterns that are genuinely generic and reusable across any project.
+**The numbers:**
+- 50+ session observations analyzed (310k+ tokens of development history)
+- 15 project-specific skills generalized into 37 universal patterns
+- 3 weeks of intensive multi-agent development
+- Every skill represents a pattern that emerged from real pain — not a theoretical best practice document
+
+## Related Projects
+
+- [nosaintsville-agent](https://github.com/ash1794/nosaintsville-agent) — The 11-agent personal assistant system where these skills were born
 
 ## License
 
-MIT
+MIT — Use it, fork it, make it yours.
