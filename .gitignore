@@ -4,3 +4,6 @@
 *~
 .env
 node_modules/
+
+# Prevent recursive self-nesting in Claude Code plugin cache (see #1)
+vibe-engineering/
