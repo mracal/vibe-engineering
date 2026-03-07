@@ -47,18 +47,6 @@ git clone https://github.com/ash1794/vibe-engineering.git
 claude --plugin-dir ./vibe-engineering
 ```
 
-### Option 3: Add as a marketplace source
-
-If you want automatic updates when new skills are added:
-
-```bash
-# Add as a marketplace
-claude plugin marketplace add ash1794/vibe-engineering
-
-# Then install
-claude plugin install vibe-engineering
-```
-
 ## Quick Start
 
 After installation, Claude automatically discovers vibe-engineering skills. The bootstrap skill teaches Claude to check for applicable skills before every action.
